@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @st1ch1q111
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-st1ch1q111/st1ch1q111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Name: Egor
+- NickName: Holda
+- Discord: Holda#8832
+- DEV Lang: Vue 3(5/100%), HTML(100/100%), CSS(93/100#), JS(23/100%), PHP(43/100%), JAVA(35/100%), JFX(76/100%), MySQL(12/100%)
+- About me: Верстальщик, дизайнер, веб-дев, лентяй, любитель колы
